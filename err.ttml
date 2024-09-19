@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xml:lang="ar" ttp:timeBase="media">
+  <head>
+    <metadata>
+      <ttm:title>jellies-93548.srt</ttm:title>
+      <ttm:desc></ttm:desc>
+    </metadata>
+    <styling></styling>
+    <layout>
+      <region xml:id="bottom-center" tts:origin="10% 70%" tts:extent="80% 20%" tts:displayAlign="after"></region>
+      <region xml:id="top-center" tts:origin="10% 10%" tts:extent="80% 20%" tts:displayAlign="before"></region>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p xml:id="sub-a1f88b4b-25e0-4469-a27a-82d13cf04e98" begin="00:00:08.642" region="bottom-center" ttm:role="dialog">Invalid data</p>
+      <p xml:id="sub-7638b5a7-79e2-4c5c-860e-34ac555fc25d" begin="00:00:11.144" end="00:00:16.917" region="bottom-center" ttm:role="dialog">Dude get out of the way!</p>
+      <p xml:id="sub-6e1b9dfc-2725-4fa6-b4df-258a0b2b84fa" begin="00:00:18.886" end="00:00:21.889" region="bottom-center" ttm:role="dialog">Shaky Hands</p>
+      <p xml:id="sub-86fa121e-bc23-4bfc-a1db-ff5246a61fb4" begin="00:00:22.256" end="00:00:26.093" region="bottom-center" ttm:role="dialog">Ah yes, this is &amp; better</p>
+      <p xml:id="sub-6244e41c-cbd7-4c9a-a722-0a7bd344db6c" begin="00:00:26.093" end="00:00:31.999" region="bottom-center" ttm:role="dialog">Thanks for watching and I hope you&apos;ll have fun with the VideoSub library.</p>
+      <p xml:id="sub-b7ad26ce-2be8-4169-9b78-443636d727c7" begin="00:00:32.099" end="00:00:44.545" region="bottom-center" ttm:role="dialog">All Rights Reserved by QA Transperfect India.</p>
+    </div>
+  </body>
+</tt>
