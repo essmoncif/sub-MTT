@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xml:lang="ar" ttp:timeBase="media">
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xml:lang="de-DE" ttp:frameRate="30" ttp:frameRateMultiplier="1000 1001" ttp:timeBase="smpte">
   <head>
+    <ttm:agent xml:id="char0" type="character">
+      <ttm:name type="full">speaker-2</ttm:name>
+      <ttm:actor agent="char0"></ttm:actor>
+    </ttm:agent>
+    <ttm:agent xml:id="char1" type="character">
+      <ttm:name type="full">speaker-1</ttm:name>
+      <ttm:actor agent="char1"></ttm:actor>
+    </ttm:agent>
     <metadata>
-      <ttm:title>jellies-93548.srt</ttm:title>
+      <ttm:title>MI201704250197_EMT.srt</ttm:title>
       <ttm:desc></ttm:desc>
     </metadata>
     <styling></styling>
@@ -13,12 +21,561 @@
   </head>
   <body>
     <div>
-      <p xml:id="sub-a1f88b4b-25e0-4469-a27a-82d13cf04e98" begin="00:00:08.642" region="bottom-center" ttm:role="dialog">Invalid data</p>
-      <p xml:id="sub-7638b5a7-79e2-4c5c-860e-34ac555fc25d" begin="00:00:11.144" end="00:00:16.917" region="bottom-center" ttm:role="dialog">Dude get out of the way!</p>
-      <p xml:id="sub-6e1b9dfc-2725-4fa6-b4df-258a0b2b84fa" begin="00:00:18.886" end="00:00:21.889" region="bottom-center" ttm:role="dialog">Shaky Hands</p>
-      <p xml:id="sub-86fa121e-bc23-4bfc-a1db-ff5246a61fb4" begin="00:00:22.256" end="00:00:26.093" region="bottom-center" ttm:role="dialog">Ah yes, this is &amp; better</p>
-      <p xml:id="sub-6244e41c-cbd7-4c9a-a722-0a7bd344db6c" begin="00:00:26.093" end="00:00:31.999" region="bottom-center" ttm:role="dialog">Thanks for watching and I hope you&apos;ll have fun with the VideoSub library.</p>
-      <p xml:id="sub-b7ad26ce-2be8-4169-9b78-443636d727c7" begin="00:00:32.099" end="00:00:44.545" region="bottom-center" ttm:role="dialog">All Rights Reserved by QA Transperfect India.</p>
+      <p xml:id="sub-9fa89e94-6618-4d65-b57d-e79e7ecb93e4" ttm:agent="char1" begin="00:00:01:20" end="00:00:05:25" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake Baggett hat sich einen</span>
+        <br/>
+        <span tts:fontStyle="italic">guten Ruf aufgebaut,</span>
+      </p>
+      <p xml:id="sub-47916aea-babd-4d4b-aaa1-61af2480939f" ttm:agent="char1" begin="00:00:06:00" end="00:00:08:04" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">in den Jahren 2011 und 2012.</span>
+      </p>
+      <p xml:id="sub-e4e2f7e9-f278-48e9-b02b-340ba093acfe" begin="00:00:08:15" end="00:00:10:23" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er wurde &quot;El Chupacabra&quot; genannt,</span>
+      </p>
+      <p xml:id="sub-b6bd3a4c-b10d-4b3c-b2e0-b844ce23e44d" begin="00:00:10:27" end="00:00:14:03" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">wegen seiner Angriffe von hinten</span>
+        <br/>
+        <span tts:fontStyle="italic">spät in den Rennen.</span>
+      </p>
+      <p xml:id="sub-5e015ac6-3728-4d49-a68f-8b210480a2ff" begin="00:00:14:11" end="00:00:17:28" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake Baggett gewinnt mit</span>
+        <br/>
+        <span tts:fontStyle="italic">jeder Runde eine Sekunde.</span>
+      </p>
+      <p xml:id="sub-56490b53-e876-4543-8127-96c99021a884" ttm:agent="char0" begin="00:00:18:03" end="00:00:19:08" region="bottom-center" ttm:role="dialog">In der Leichtklasse</p>
+      <p xml:id="sub-7743b8fb-96a1-456f-89f4-02c2c8d59405" begin="00:00:19:12" end="00:00:22:00" region="bottom-center" ttm:role="dialog">spielt der Start keine Rolle.</p>
+      <p xml:id="sub-a2279b18-fb3e-47dd-9841-dc1f8b0a2146" begin="00:00:22:09" end="00:00:27:03" region="bottom-center" ttm:role="dialog">Ich konnte mich der Situation
+        <br/>sehr schnell anpassen.</p>
+      <p xml:id="sub-05b88ae3-26fa-4945-afdb-979b4daa6154" begin="00:00:27:17" end="00:00:29:16" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Baggett jagt Musquin.</span>
+      </p>
+      <p xml:id="sub-e71a66fe-0934-4c80-9276-45384c4f471a" begin="00:00:29:20" end="00:00:31:21" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Drei Viertel fehlen noch!</span>
+      </p>
+      <p xml:id="sub-3c95afed-ab04-4ce1-975a-095f3c79c288" begin="00:00:31:28" end="00:00:34:00" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Baggett übernimmt die Führung!</span>
+      </p>
+      <p xml:id="sub-94493d07-f7df-40d2-bd53-069ab19331d9" begin="00:00:34:03" end="00:00:36:03" region="bottom-center" ttm:role="dialog">Es lief einfach hervorragend.</p>
+      <p xml:id="sub-bf660a04-e180-4d5d-984d-031321a19cf2" begin="00:00:36:22" end="00:00:38:18" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Eines der besten Comebacks</span>
+      </p>
+      <p xml:id="sub-7aa86fd3-799a-44f7-9071-3139adbb5baf" begin="00:00:38:22" end="00:00:40:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">des Hangtown Classic.</span>
+      </p>
+      <p xml:id="sub-e5ea2831-631c-4944-a7a8-cdfc32cae61b" begin="00:00:40:28" end="00:00:42:15" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake hatte Aldon Baker</span>
+      </p>
+      <p xml:id="sub-5a7dcb5c-6fba-4902-b031-a2b5a30efacf" begin="00:00:42:26" end="00:00:46:09" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und den mehrfachen Meister</span>
+        <br/>
+        <span tts:fontStyle="italic">Ryan Villopoto als Trainer,</span>
+      </p>
+      <p xml:id="sub-50bf2fe7-63d1-4017-a9ef-af860c11740f" begin="00:00:46:19" end="00:00:49:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">als er seinen ersten Titel gewann.</span>
+      </p>
+      <p xml:id="sub-f68b5f0b-fa94-4d57-90b1-68ba59a1dc12" begin="00:00:49:20" end="00:00:51:25" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Aber die Partnerschaft endete bald,</span>
+      </p>
+      <p xml:id="sub-acdc7943-4a15-4b75-9d81-9d84a6fcfcdf" begin="00:00:52:10" end="00:00:54:11" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">aufgrund äußerlicher Umstände.</span>
+      </p>
+      <p xml:id="sub-00e1fe3b-99df-4e12-8101-a82087202f06" begin="00:00:54:27" end="00:00:58:25" region="bottom-center" ttm:role="dialog">Laut Verträgen kann der 450er Fahrer,</p>
+      <p xml:id="sub-60251bcf-e791-49d9-9e63-248630b66ac1" begin="00:00:59:00" end="00:01:01:02" region="bottom-center" ttm:role="dialog">wer immer gerade der Stärkste ist,</p>
+      <p xml:id="sub-76f3bf06-6b71-4e95-a425-334d9d38adac" begin="00:01:01:12" end="00:01:03:19" region="bottom-center" ttm:role="dialog">einen anderen Rennfahrer auszahlen.</p>
+      <p xml:id="sub-0ef73737-7345-43a3-b0f4-7c35695f81da" begin="00:01:04:13" end="00:01:06:11" region="bottom-center" ttm:role="dialog">Es war hart, er hat gewonnen</p>
+      <p xml:id="sub-06135c69-c158-4f1f-921f-956f5190802a" begin="00:01:06:25" end="00:01:08:11" region="bottom-center" ttm:role="dialog">und jetzt ist er weg.</p>
+      <p xml:id="sub-15ce8cd8-b165-4f49-ba9a-885412fc79c6" begin="00:01:09:05" end="00:01:12:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Die folgenden vier Jahre</span>
+        <br/>
+        <span tts:fontStyle="italic">blieb Blake im Hintergrund,</span>
+      </p>
+      <p xml:id="sub-b6ea8880-e448-4b06-87e6-eba270e216d3" begin="00:01:12:26" end="00:01:15:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">von Verletzungen geplagt.</span>
+      </p>
+      <p xml:id="sub-ab089c4f-d4ba-4081-96e9-c56ae0c4730d" begin="00:01:15:20" end="00:01:17:04" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Es wurde angenommen</span>
+      </p>
+      <p xml:id="sub-f44c7779-3e0c-4a2c-aa1b-0801fe1919df" begin="00:01:17:08" end="00:01:19:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">dass er nie wieder so</span>
+        <br/>
+        <span tts:fontStyle="italic">erfolgreich sein würde</span>
+      </p>
+      <p xml:id="sub-cb2a2de1-d46f-43fa-8a42-87992b7d6aab" begin="00:01:20:02" end="00:01:23:03" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">wie im 250er Rennen</span>
+        <br/>
+        <span tts:fontStyle="italic">mit Aldons Programm.</span>
+      </p>
+      <p xml:id="sub-a3302455-d6b7-49fe-885f-80d0df4ae5ff" begin="00:01:23:25" end="00:01:25:20" region="bottom-center" ttm:role="dialog">Ich habe nicht gewonnen.</p>
+      <p xml:id="sub-8900398f-694e-403b-91a3-b4a00feffea3" begin="00:01:26:10" end="00:01:30:12" region="bottom-center" ttm:role="dialog">Aber jetzt bin ich in
+        <br/>der 450er Klasse.</p>
+      <p xml:id="sub-8fd5540f-baf9-4ca6-a862-573b76e02d3e" begin="00:01:31:05" end="00:01:32:15" region="bottom-center" ttm:role="dialog">Bei den Schnellsten.</p>
+      <p xml:id="sub-ba2758f5-7e91-4d28-81f2-420b6fe64a4b" begin="00:01:32:22" end="00:01:35:04" region="bottom-center" ttm:role="dialog">Ich habe mich nach oben gekämpft,</p>
+      <p xml:id="sub-4f866471-3dec-4a86-8ab1-90b8f855b660" begin="00:01:35:25" end="00:01:39:19" region="bottom-center" ttm:role="dialog">indem ich das Gegenteil
+        <br/>von zuvor machte.</p>
+      <p xml:id="sub-3bbc6635-16c1-46ae-9135-3e23cc71098a" begin="00:01:41:08" end="00:01:46:03" region="bottom-center" ttm:role="x-OnScreenText">MXNATION</p>
+      <p xml:id="sub-892bba31-f644-4617-a451-e8e515890d2a" begin="00:01:47:00" end="00:01:50:08" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Das ist der erste</span>
+        <br/>
+        <span tts:fontStyle="italic">&quot;El Chupacabra&quot;-Angriff</span>
+      </p>
+      <p xml:id="sub-7b8d814b-a48b-469d-a195-ccaa6c97ccd8" begin="00:01:50:17" end="00:01:52:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">von Baggett dieses Jahr.</span>
+      </p>
+      <p xml:id="sub-a5e5f2db-fadf-4107-9799-dba84155c264" begin="00:01:52:21" end="00:01:56:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake Baggetts erster</span>
+        <br/>
+        <span tts:fontStyle="italic">450-Motocross-Gesamtsieg.</span>
+      </p>
+      <p xml:id="sub-1e2ed9ec-d6ab-4674-bd82-8f358dcdf72e" begin="00:01:57:25" end="00:02:01:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">In sechs Runden hat Blake Baggett</span>
+        <br/>
+        <span tts:fontStyle="italic">zwei Overalls gewonnen,</span>
+      </p>
+      <p xml:id="sub-aa70fa58-2397-4b6a-aad0-417205daebe6" begin="00:02:01:18" end="00:02:05:16" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">was 2017 zu seiner besten Saison</span>
+        <br/>
+        <span tts:fontStyle="italic">seit der Arbeit mit Baker macht.</span>
+      </p>
+      <p xml:id="sub-377e6e4f-1d3d-4781-9687-dc0184268626" begin="00:02:05:27" end="00:02:07:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Die Schlacht beginnt.</span>
+      </p>
+      <p xml:id="sub-1232839e-795a-4c5b-8a0b-7526b9b3518d" begin="00:02:07:17" end="00:02:11:01" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">&quot;El Chupacabra&quot; und Jason Anderson</span>
+        <br/>
+        <span tts:fontStyle="italic">kämpfen um die Führung.</span>
+      </p>
+      <p xml:id="sub-40e01193-a968-44b4-80d8-c44e8e02fee0" begin="00:02:11:05" end="00:02:15:16" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Der Kampf zwischen Baggett</span>
+        <br/>
+        <span tts:fontStyle="italic">und Baker wird dadurch verschärft,</span>
+      </p>
+      <p xml:id="sub-835e1991-6900-45d1-8935-24d14af93187" begin="00:02:15:20" end="00:02:18:23" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">dass Aldon</span>
+        <br/>
+        <span tts:fontStyle="italic">mit Jason Anderson trainiert.</span>
+      </p>
+      <p xml:id="sub-671e9729-a5c5-4f86-b9c5-f795cdcf2329" begin="00:02:19:11" end="00:02:21:10" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Die Spannung stieg noch weiter,</span>
+      </p>
+      <p xml:id="sub-e7cdaee2-c5a1-46da-ab30-acdaf117d04e" begin="00:02:22:01" end="00:02:24:05" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">nach dem Vorfall bei RedBud.</span>
+      </p>
+      <p xml:id="sub-c10f13f6-f6f0-422e-a813-d4248dd07dfb" begin="00:02:25:23" end="00:02:29:11" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Jason Anderson wirft</span>
+        <br/>
+        <span tts:fontStyle="italic">Baggett aus dem Rennen!</span>
+      </p>
+      <p xml:id="sub-c25f6400-f9ca-4d82-a343-016b0a874880" begin="00:02:29:27" end="00:02:32:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake zog sich</span>
+        <br/>
+        <span tts:fontStyle="italic">eine Daumenverletzung zu,</span>
+      </p>
+      <p xml:id="sub-b53fe239-7f9f-4ea1-a3a5-4652da4c5550" begin="00:02:32:19" end="00:02:34:18" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und ist außer Gefecht gesetzt.</span>
+      </p>
+      <p xml:id="sub-e1eecd1a-6a0d-4b92-a09c-a0ba219f7136" begin="00:02:34:28" end="00:02:37:25" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Und es ist fraglich,</span>
+        <br/>
+        <span tts:fontStyle="italic">ob er weiter fahren wird.</span>
+      </p>
+      <p xml:id="sub-37b59116-8c10-4e20-8cf8-51be2903714a" begin="00:02:39:19" end="00:02:42:11" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Inzwischen herrscht für Aldon,</span>
+      </p>
+      <p xml:id="sub-691e1e76-48cf-4cfc-96bb-1e062faad6fc" begin="00:02:42:22" end="00:02:44:23" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Führer mit 250 Punkten</span>
+        <br/>
+        <span tts:fontStyle="italic">Zach Osborne,</span>
+      </p>
+      <p xml:id="sub-4e53a908-b921-41d7-a842-2d29414b694a" begin="00:02:45:11" end="00:02:48:05" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">450-Meisterschafts-Anwärter</span>
+        <br/>
+        <span tts:fontStyle="italic">Marvin Musquin</span>
+      </p>
+      <p xml:id="sub-f2000d6f-2001-434f-88c4-373ccc03165c" begin="00:02:48:09" end="00:02:49:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und Jason Anderson</span>
+      </p>
+      <p xml:id="sub-c35d38b2-efcb-4748-968e-196b3c529f4c" begin="00:02:49:24" end="00:02:52:04" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">normaler Betrieb</span>
+        <br/>
+        <span tts:fontStyle="italic">an einem Donnerstag.</span>
+      </p>
+      <p xml:id="sub-88246784-37ca-428e-b7bf-104baa190e48" begin="00:02:52:17" end="00:02:56:09" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Sie bereiten sich auf das</span>
+        <br/>
+        <span tts:fontStyle="italic">Southwick-Rennen vor.</span>
+      </p>
+      <p xml:id="sub-6f126c66-c4c3-401f-8bd2-083d49f97554" begin="00:02:56:25" end="00:02:59:06" region="bottom-center" ttm:role="dialog">Ich verlange nur 12 gute Runden.</p>
+      <p xml:id="sub-f4a7a6ff-4b87-4db3-82c0-0f5ad06df124" begin="00:02:59:14" end="00:03:00:14" region="bottom-center" ttm:role="dialog">Dann eine Pause.</p>
+      <p xml:id="sub-28c987a9-8752-456f-93f3-aaaebf62a753" begin="00:03:00:18" end="00:03:02:10" region="bottom-center" ttm:role="dialog">Dann wird es schneller.</p>
+      <p xml:id="sub-6b514f80-0fe3-407a-b401-25042aede750" begin="00:03:02:23" end="00:03:04:04" region="bottom-center" ttm:role="dialog">Wenn wir zurücktreten,</p>
+      <p xml:id="sub-80cde5b1-502d-48bb-ae68-40e279d37868" begin="00:03:04:08" end="00:03:06:24" region="bottom-center" ttm:role="dialog">werden wir dich
+        <br/>nicht mehr sehen wollen.</p>
+      <p xml:id="sub-e154b958-5208-4d3f-923e-916ceaa21b3e" begin="00:03:06:28" end="00:03:09:12" region="bottom-center" ttm:role="dialog">Ich hoffe, das wird nicht passieren.</p>
+      <p xml:id="sub-07535cb3-237d-4ec8-a246-d25f0952d198" begin="00:03:17:27" end="00:03:19:28" region="bottom-center" ttm:role="dialog">Ich habe mich hochgearbeitet</p>
+      <p xml:id="sub-e520adac-ec59-4267-8748-af10400250b4" begin="00:03:20:02" end="00:03:24:06" region="bottom-center" ttm:role="dialog">auf ein Niveau mit
+        <br/>prestigeträchtigen Meisterschaften.</p>
+      <p xml:id="sub-4dc84146-5dbb-4d4c-8acb-ab7978f19024" begin="00:03:24:22" end="00:03:26:02" region="bottom-center" ttm:role="dialog">Es ist unwirklich.</p>
+      <p xml:id="sub-d7b5f0f9-5a32-44ee-b960-8fd93b75d030" begin="00:03:26:05" end="00:03:28:13" region="bottom-center" ttm:role="dialog">Man versucht, das auszublenden,</p>
+      <p xml:id="sub-5f75b14c-93f4-421e-b43b-7a737045ce28" begin="00:03:28:17" end="00:03:30:07" region="bottom-center" ttm:role="dialog">um sich zu konzentrieren.</p>
+      <p xml:id="sub-c3275e3a-57fc-423a-bd77-b155cc0fd677" begin="00:03:30:10" end="00:03:32:10" region="bottom-center" ttm:role="dialog">Die nächsten Runden sind wichtig.</p>
+      <p xml:id="sub-eb49d42e-6bc8-4646-837a-88a85511b312" begin="00:03:33:06" end="00:03:36:14" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Das Selbstvertrauen,</span>
+        <br/>
+        <span tts:fontStyle="italic">das Anderson gewonnen hat,</span>
+      </p>
+      <p xml:id="sub-5c86c7df-a4bf-4efd-8b3d-f2cc5a823a4c" begin="00:03:36:18" end="00:03:39:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">hat seine Geschwindigkeit</span>
+        <br/>
+        <span tts:fontStyle="italic">vorangetrieben.</span>
+      </p>
+      <p xml:id="sub-0a140b9d-eb09-497e-9b7e-93b806eafc92" begin="00:03:39:13" end="00:03:41:15" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Doch Motocross hat gezeigt,</span>
+      </p>
+      <p xml:id="sub-48f25fd5-bc74-432b-9b55-d98cbfe1546a" begin="00:03:42:08" end="00:03:44:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">dass das schwere Folgen haben kann.</span>
+      </p>
+      <p xml:id="sub-b5676d67-b5c6-476d-907c-5d1c2fee19e2" begin="00:03:56:16" end="00:03:57:16" region="bottom-center" ttm:role="dialog">Alles in Ordnung?</p>
+      <p xml:id="sub-2e1fa121-251d-4beb-af19-9b64e44ea20c" begin="00:03:58:07" end="00:03:59:27" region="bottom-center" ttm:role="dialog">Beweg dich nicht.</p>
+      <p xml:id="sub-19fa71de-47ef-4891-bc3a-dda89aed1fb9" begin="00:04:01:09" end="00:04:04:20" region="bottom-center" ttm:role="dialog">Einen Krankenwagen, bitte.
+        <br/>Ich bin auf einer Motocross-Anlage,</p>
+      <p xml:id="sub-fe90006a-3777-4964-af99-d69778bbffe4" begin="00:04:05:11" end="00:04:07:20" region="bottom-center" ttm:role="dialog">einer meiner Fahrer ist gestürzt</p>
+      <p xml:id="sub-6e6fba8d-0af5-42bb-9172-2735edd63c49" begin="00:04:08:00" end="00:04:09:20" region="bottom-center" ttm:role="dialog">und hat große Schmerzen.</p>
+      <p xml:id="sub-edab1d1d-e2a6-496e-99c4-356c67a291fd" begin="00:04:10:13" end="00:04:11:16" region="bottom-center" ttm:role="dialog">Es ist okay.</p>
+      <p xml:id="sub-1702a142-84c9-4b13-aa1d-fc5bb0f2044b" begin="00:04:11:20" end="00:04:13:02" region="bottom-center" ttm:role="dialog">Nur ein Bluterguss.</p>
+      <p xml:id="sub-965d917d-bddf-4e37-9f24-5ffc4382da4e" begin="00:04:14:01" end="00:04:16:15" region="bottom-center" ttm:role="dialog">Wir wissen es nicht,
+        <br/>letztes Mal sagte er,</p>
+      <p xml:id="sub-2eede46a-1b0b-4d06-9f86-dbda6f822569" begin="00:04:16:19" end="00:04:18:01" region="bottom-center" ttm:role="dialog">„Die Schulter tut weh.“</p>
+      <p xml:id="sub-96ddbb0e-806c-4110-b934-eb8421ea6be3" begin="00:04:18:05" end="00:04:19:13" region="bottom-center" ttm:role="dialog">Sie war gebrochen.</p>
+      <p xml:id="sub-1afe6b22-0127-44aa-9631-902c1b856c2e" begin="00:04:20:17" end="00:04:22:27" region="bottom-center" ttm:role="dialog">Du gehst hin und denkst: „Okay.</p>
+      <p xml:id="sub-ac0ba2ec-6a55-4656-aeae-9c227bb16fef" begin="00:04:23:02" end="00:04:25:07" region="bottom-center" ttm:role="dialog">Ist die Saison vorbei?“</p>
+      <p xml:id="sub-e23a0de3-555d-4e16-9994-1ebb80c369f1" begin="00:04:25:11" end="00:04:27:04" region="bottom-center" ttm:role="dialog">Und ich bete, dass alles</p>
+      <p xml:id="sub-bfd0052d-d9b5-4cb6-b37f-e222c42f9e28" begin="00:04:28:08" end="00:04:29:12" region="bottom-center" ttm:role="dialog">in Ordnung ist.</p>
+      <p xml:id="sub-08a8636a-8af7-4c10-bbb5-f474953cc7c2" begin="00:04:30:21" end="00:04:32:04" region="bottom-center" ttm:role="dialog">Man nimmt es persönlich.</p>
+      <p xml:id="sub-a1d71d0d-9b78-4715-b272-5cf2d7fdee8a" begin="00:04:33:07" end="00:04:35:05" region="bottom-center" ttm:role="dialog">Ich werde morgen steif sein.</p>
+      <p xml:id="sub-a3ca7021-dfc3-4073-b708-5f656a17c8b3" begin="00:04:35:15" end="00:04:37:16" region="bottom-center" ttm:role="dialog">Ich glaube, es wird wieder werden.</p>
+      <p xml:id="sub-c6a153be-739e-4a4b-9900-d6a7c31f63b9" begin="00:04:37:20" end="00:04:40:07" region="bottom-center" ttm:role="dialog">Er hat sich nichts gebrochen.</p>
+      <p xml:id="sub-4d91a7c2-77d4-492b-ab73-13b2ddeb3837" begin="00:04:40:11" end="00:04:42:24" region="bottom-center" ttm:role="dialog">Aber er wird Schmerzen haben,</p>
+      <p xml:id="sub-182fa94d-cabd-4ac0-9f5f-51ee05030df5" begin="00:04:42:28" end="00:04:44:24" region="bottom-center" ttm:role="dialog">und zum Rennen hetzen.</p>
+      <p xml:id="sub-b1cb6193-4b6d-4d37-a4bf-117a79f6f163" begin="00:04:45:14" end="00:04:49:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Jason wird im Krankenhaus</span>
+        <br/>
+        <span tts:fontStyle="italic">auf innere Verletzungen überprüft.</span>
+      </p>
+      <p xml:id="sub-ac0b683f-5f6c-4af7-9067-71c40bff56b3" begin="00:04:49:17" end="00:04:52:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Sein körperlicher Zustand</span>
+        <br/>
+        <span tts:fontStyle="italic">ist unsicher,</span>
+      </p>
+      <p xml:id="sub-cc33ba0e-f0a9-4518-a9ca-8d4d750ad3ab" begin="00:04:52:17" end="00:04:54:26" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">wie bei seinem Rivalen</span>
+        <br/>
+        <span tts:fontStyle="italic">Blake Baggett.</span>
+      </p>
+      <p xml:id="sub-7adbd2ef-65eb-469a-a4b1-cca96c9cf770" begin="00:04:55:26" end="00:04:57:26" region="bottom-center" ttm:role="dialog">Okay, zurück an die Arbeit.</p>
+      <p xml:id="sub-9963881a-fdb3-47bf-b57e-07d5744e14a4" begin="00:04:58:12" end="00:05:01:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Aldon will nicht, dass seine Fahrer</span>
+      </p>
+      <p xml:id="sub-3bdab992-a37e-4f3f-89a8-f71908e2f619" begin="00:05:01:17" end="00:05:03:05" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">an den Krankenwagen denken,</span>
+      </p>
+      <p xml:id="sub-9fba59d6-5fd0-42c2-8030-143eb57c8b12" begin="00:05:03:19" end="00:05:06:01" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">während ihrer letzten Übungseinheit,</span>
+      </p>
+      <p xml:id="sub-e469b724-cc12-4100-9737-d612c3f16676" begin="00:05:06:05" end="00:05:08:19" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und besteht darauf,</span>
+        <br/>
+        <span tts:fontStyle="italic">weiter zu trainieren.</span>
+      </p>
+      <p xml:id="sub-c03ce4f7-0ab6-4cd0-bf11-9d3245e6ca23" begin="00:05:08:23" end="00:05:09:25" region="bottom-center" ttm:role="dialog">Fertig!</p>
+      <p xml:id="sub-6ae06663-732d-4668-82e8-61ff950f1ef1" begin="00:05:15:27" end="00:05:18:00" region="bottom-center" ttm:role="dialog">Sie wollten nur nach Hause gehen,</p>
+      <p xml:id="sub-1b56ae9d-83ee-4a49-8df2-87b016caa614" begin="00:05:18:04" end="00:05:19:17" region="bottom-center" ttm:role="dialog">es war ein harter Tag.</p>
+      <p xml:id="sub-bbbcf137-9eb3-4352-a95b-497d94858b4e" begin="00:05:19:21" end="00:05:21:02" region="bottom-center" ttm:role="dialog">Es wird besser werden.</p>
+      <p xml:id="sub-19f33e68-82a7-4732-8a7a-6464241b0961" begin="00:05:21:06" end="00:05:24:06" region="bottom-center" ttm:role="dialog">Jason ist in guten Händen.</p>
+      <p xml:id="sub-e061c518-628b-4651-8c0f-779f0b63beb6" begin="00:05:24:10" end="00:05:27:16" region="bottom-center" ttm:role="dialog">Ich versuche immer,
+        <br/>auch etwas Negatives</p>
+      <p xml:id="sub-64d3558a-6040-4ff3-9bc9-6030217bc152" begin="00:05:27:20" end="00:05:28:28" region="bottom-center" ttm:role="dialog">positiv zu sehen.</p>
+      <p xml:id="sub-cbeee3f3-9dc4-4cda-b50e-67fbc9d25d62" begin="00:05:29:26" end="00:05:31:12" region="bottom-center" ttm:role="dialog">Gute Arbeit, Marv.</p>
+      <p xml:id="sub-b1e7b8e0-0ea3-4f4d-b5c9-58f37c4111be" begin="00:05:32:12" end="00:05:34:24" region="top-center" ttm:role="x-OnScreenText">SOUTHWICK RENNSTRECKE
+        <br/>7. RUNDE</p>
+      <p xml:id="sub-815cbbb0-2eaf-4815-a425-d93ef1ff453c" begin="00:05:34:28" end="00:05:37:19" region="top-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Die Southwick Rennstrecke</span>
+        <br/>
+        <span tts:fontStyle="italic">ist anspruchsvoll</span>
+      </p>
+      <p xml:id="sub-032219d1-8f14-4f54-9c1d-6ed02ccc3c90" begin="00:05:37:23" end="00:05:40:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und unvorhersehbar,</span>
+      </p>
+      <p xml:id="sub-4bb94900-09cd-48b4-a41f-098b00172e5e" begin="00:05:40:06" end="00:05:41:20" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">wegen des sandigen Geländes.</span>
+      </p>
+      <p xml:id="sub-adbd5534-06d4-4a0c-b529-aab33c2d699e" begin="00:05:42:06" end="00:05:44:28" region="bottom-center" ttm:role="dialog">Das tiefe Sediment
+        <br/>erfasst bewegliche Teile</p>
+      <p xml:id="sub-157e95a1-207b-4ded-9c9f-dd9e59181664" begin="00:05:45:03" end="00:05:47:25" region="bottom-center" ttm:role="dialog">des Motorrads und der Motoren,</p>
+      <p xml:id="sub-a3964086-11a0-4e79-a4e4-a4e27714d814" begin="00:05:48:00" end="00:05:50:09" region="bottom-center" ttm:role="dialog">die nach Halt suchen.</p>
+      <p xml:id="sub-9ced7089-1ed4-4d12-a0be-2fe210c954d9" begin="00:05:50:23" end="00:05:53:11" region="top-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Southwick-Rennstrecke,</span>
+        <br/>
+        <span tts:fontStyle="italic">der große Ausgleich.</span>
+      </p>
+      <p xml:id="sub-53a30d09-8aeb-4090-8434-d2e7c4b3abdc" begin="00:05:53:23" end="00:05:57:10" region="top-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Der Sand verzehrt sich</span>
+        <br/>
+        <span tts:fontStyle="italic">nach Antriebsleistung.</span>
+      </p>
+      <p xml:id="sub-b502c035-9924-41cf-a8e5-96a425841505" begin="00:05:57:24" end="00:05:59:23" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Die Rundenzeiten für Eli Tomac,</span>
+      </p>
+      <p xml:id="sub-ea6c7eaa-4066-4f82-90d1-4129fcefd300" begin="00:06:00:12" end="00:06:02:05" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Baggett und Musquin</span>
+      </p>
+      <p xml:id="sub-4b591e29-9b56-42c3-ace6-335161282b23" begin="00:06:02:23" end="00:06:05:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">spiegeln ihre</span>
+        <br/>
+        <span tts:fontStyle="italic">Top-3-Platzierungen wider.</span>
+      </p>
+      <p xml:id="sub-14c27fab-8584-498c-b1ed-058c25280aff" begin="00:06:06:00" end="00:06:09:21" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Aber leider konnte Jason Anderson</span>
+        <br/>
+        <span tts:fontStyle="italic">keine Runde abschließen,</span>
+      </p>
+      <p xml:id="sub-76735403-5341-41a0-9c31-d36ad266902f" begin="00:06:10:07" end="00:06:12:18" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">wegen seines Sturzes</span>
+        <br/>
+        <span tts:fontStyle="italic">vor zwei Tagen.</span>
+      </p>
+      <p xml:id="sub-2e31cfa5-6e13-4187-a149-a26209522c38" begin="00:06:13:28" end="00:06:15:12" region="bottom-center" ttm:role="dialog">Der Schmerz ist okay,</p>
+      <p xml:id="sub-d9a21495-5d87-4d45-a1c7-1b246589ba18" begin="00:06:15:16" end="00:06:18:07" region="bottom-center" ttm:role="dialog">aber bei jedem Sprung
+        <br/>zucke ich zusammen.</p>
+      <p xml:id="sub-a7cf79f1-7c19-478f-9562-eda3a8b31172" begin="00:06:18:20" end="00:06:20:20" region="bottom-center" ttm:role="dialog">Ein anstrengender Tagesbeginn.</p>
+      <p xml:id="sub-aacb230f-efa3-4a70-ae34-1ec599c2dc7b" begin="00:06:21:09" end="00:06:24:12" region="bottom-center" ttm:role="dialog">Meine beiden Jungs haben
+        <br/>viele Punkte verloren.</p>
+      <p xml:id="sub-e17e8eec-73a0-4182-8083-3acc57286573" begin="00:06:24:15" end="00:06:25:28" region="bottom-center" ttm:role="dialog">Wir müssen fast hoffen,</p>
+      <p xml:id="sub-b7501bcf-0d7b-44b0-9f65-ae09476d9884" begin="00:06:26:03" end="00:06:29:16" region="bottom-center" ttm:role="dialog">dass die anderen
+        <br/>mehr Fehler machen.</p>
+      <p xml:id="sub-811eaa5d-146b-4091-990a-232350686123" begin="00:06:29:20" end="00:06:33:10" region="bottom-center" ttm:role="dialog">Ich habe an vielen
+        <br/>Sandrennen teilgenommen</p>
+      <p xml:id="sub-d805da44-cc92-45d4-95b1-b3e6c79a91a1" begin="00:06:33:14" end="00:06:34:21" region="bottom-center" ttm:role="dialog">und ich mag den Sand.</p>
+      <p xml:id="sub-3afb4fe7-1fc8-4ef0-89d9-ab8ce170dd4a" begin="00:06:34:24" end="00:06:37:10" region="bottom-center" ttm:role="dialog">Ich hatte letztes Jahr
+        <br/>einen guten Start.</p>
+      <p xml:id="sub-afeab72d-06b6-4e07-8e1c-78461a6feb81" begin="00:06:37:14" end="00:06:41:13" region="bottom-center" ttm:role="dialog">Ich habe Baggett gesehen.
+        <br/>Sein Daumen ist hier hochgezogen.</p>
+      <p xml:id="sub-123bdea3-fc23-4247-8ff7-1c7b1476b2cd" begin="00:06:42:02" end="00:06:44:13" region="bottom-center" ttm:role="dialog">Die Schmerzen sind im Hauptknöchel.</p>
+      <p xml:id="sub-6cfba99d-98ea-4c93-9b45-273d1ff15643" begin="00:06:44:17" end="00:06:45:17" region="bottom-center" ttm:role="dialog">Der beste Mann,</p>
+      <p xml:id="sub-de7f834c-ef12-44bd-bddc-4ac0f2376440" begin="00:06:45:21" end="00:06:47:14" region="bottom-center" ttm:role="dialog">um Meister zu werden,</p>
+      <p xml:id="sub-29b8d3c5-fe2e-455b-85ba-ffe6a806125a" begin="00:06:47:18" end="00:06:50:11" region="bottom-center" ttm:role="dialog">ist der, der am meisten
+        <br/>durchstehen kann.</p>
+      <p xml:id="sub-5c0872b5-40e3-478f-80db-737cb4415400" begin="00:06:50:25" end="00:06:54:13" region="bottom-center" ttm:role="dialog">Er will trotz seiner Verletzung
+        <br/>am Rennen teilnehmen.</p>
+      <p xml:id="sub-449eaacf-d591-4326-b2e1-36850a23fa74" begin="00:06:54:27" end="00:06:57:15" region="bottom-center" ttm:role="dialog">Wir haben es
+        <br/>nicht untersuchen lassen.</p>
+      <p xml:id="sub-d66c3fed-a565-4c41-a0d6-7cb7d043f2e3" begin="00:06:57:22" end="00:07:00:09" region="bottom-center" ttm:role="dialog">Ob es gebrochen oder
+        <br/>das Band gerissen ist,</p>
+      <p xml:id="sub-2d702af4-6c61-44e8-951c-7dd4aecc4d03" begin="00:07:00:13" end="00:07:02:18" region="bottom-center" ttm:role="dialog">das übt noch mehr
+        <br/>Druck auf ihn aus.</p>
+      <p xml:id="sub-10b3722c-5aa9-4dd5-b394-325b20ec67cd" begin="00:07:03:05" end="00:07:04:24" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Und jetzt geht es los.</span>
+      </p>
+      <p xml:id="sub-9acf1eb6-6f7e-41be-901d-963c4b85e595" begin="00:07:05:09" end="00:07:06:09" region="bottom-center" ttm:role="dialog">Er ist verrückt.</p>
+      <p xml:id="sub-5c5f0a73-4bd0-44f6-ae47-94137df2778a" begin="00:07:07:03" end="00:07:10:01" region="top-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Runde Eins beginnt!</span>
+        <br/>
+        <span tts:fontStyle="italic">Wer wird es sein?</span>
+      </p>
+      <p xml:id="sub-531042a3-9fa6-42b1-b97d-cc9a0bac6633" begin="00:07:10:24" end="00:07:13:24" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake Baggett, mit einem</span>
+        <br/>
+        <span tts:fontStyle="italic">verletzten Finger,</span>
+      </p>
+      <p xml:id="sub-2151dd4e-8ef1-4eac-a02b-730a7bb2cf81" begin="00:07:14:04" end="00:07:16:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">übernimmt die Führung.</span>
+      </p>
+      <p xml:id="sub-44fd1ea4-8abe-4cc6-bd54-fbbe225973f6" begin="00:07:16:16" end="00:07:18:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Oh mein Gott!</span>
+      </p>
+      <p xml:id="sub-e721507c-4cbb-40c1-8f2e-4c6d0c8e2352" begin="00:07:18:05" end="00:07:20:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Marvin Musquin ist auf dem Boden.</span>
+      </p>
+      <p xml:id="sub-b4b99c9b-6baa-4673-8eea-9179615c31ae" begin="00:07:21:02" end="00:07:24:28" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Alle schauen auf Blake Baggett,</span>
+        <br/>
+        <span tts:fontStyle="italic">aber hier kommt Eli.</span>
+      </p>
+      <p xml:id="sub-4f38d801-0236-4d95-88b8-270e3786e5f3" begin="00:07:25:03" end="00:07:26:26" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Tomac holt zu ihm auf.</span>
+      </p>
+      <p xml:id="sub-69adee0c-1ed6-46d5-b07a-7964705922bf" begin="00:07:27:01" end="00:07:28:28" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Eli Tomac übernimmt die Führung.</span>
+      </p>
+      <p xml:id="sub-0022ef35-5720-4ea4-82fa-263ee676c43e" begin="00:07:29:16" end="00:07:31:21" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Marvin Musquin, der am Anfang</span>
+      </p>
+      <p xml:id="sub-6a479338-9eee-43d6-a24d-6de2426c8886" begin="00:07:31:25" end="00:07:32:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">auf Platz 18 war,</span>
+      </p>
+      <p xml:id="sub-4f55a89c-2295-4b58-a44c-e3862ab06471" begin="00:07:33:02" end="00:07:35:03" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">liegt nun auf Platz 10.</span>
+      </p>
+      <p xml:id="sub-887eefe3-bd71-4211-8c20-7d7a21a94b11" begin="00:07:35:17" end="00:07:39:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Eli Tomac gewinnt zum</span>
+        <br/>
+        <span tts:fontStyle="italic">fünften Mal in Southwick.</span>
+      </p>
+      <p xml:id="sub-69a8106f-afd0-4107-a49e-b22e1ee37f35" begin="00:07:39:20" end="00:07:41:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Nach einer Massenkarambolage</span>
+      </p>
+      <p xml:id="sub-84caf79e-9a4c-4027-a37c-5ea760db7026" begin="00:07:42:02" end="00:07:44:18" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">liegt Marvin Musquin</span>
+        <br/>
+        <span tts:fontStyle="italic">auf dem vierten Platz.</span>
+      </p>
+      <p xml:id="sub-b2bbec19-267b-4b6b-995e-e51cea62130e" begin="00:07:45:17" end="00:07:48:08" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Aber das Highlight war Blake Baggett,</span>
+      </p>
+      <p xml:id="sub-c66316a3-030e-4ccd-9342-0ff1c7142e91" begin="00:07:49:13" end="00:07:51:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">der drei Runden lang führte</span>
+      </p>
+      <p xml:id="sub-dd5cdfb8-5400-4f38-90f3-ecbc3c8c89f0" begin="00:07:52:03" end="00:07:55:00" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und unangefochten auf</span>
+        <br/>
+        <span tts:fontStyle="italic">Platz zwei landete.</span>
+      </p>
+      <p xml:id="sub-5d90d88b-3c4a-48d3-a525-544c45070e06" begin="00:07:55:23" end="00:07:58:06" region="bottom-center" ttm:role="dialog">Er hat alles gegeben.</p>
+      <p xml:id="sub-ea67d655-f434-4aa7-a9d6-e3dbd2f1f1a2" begin="00:07:58:10" end="00:08:01:08" region="bottom-center" ttm:role="dialog">Als Erstes hat er seine Hand gekühlt.</p>
+      <p xml:id="sub-7bacd205-a106-4cc3-8817-2213f6afdd90" begin="00:08:01:26" end="00:08:02:28" region="bottom-center" ttm:role="dialog">Er hat Schmerzen.</p>
+      <p xml:id="sub-078fb7fe-d32c-4e32-b9d4-491c4af850db" begin="00:08:03:17" end="00:08:05:17" region="bottom-center" ttm:role="dialog">Ich bin in der 1. Runde gestürzt.</p>
+      <p xml:id="sub-a81ad2f1-1a0f-4995-bfb4-cc6a01485458" begin="00:08:05:21" end="00:08:08:22" region="bottom-center" ttm:role="dialog">Ich lag weit zurück
+        <br/>und wurde am Ende Vierter.</p>
+      <p xml:id="sub-7021c53c-35ab-4dbe-ad77-05efd0f89e0a" begin="00:08:09:14" end="00:08:11:12" region="bottom-center" ttm:role="dialog">Ich dachte,
+        <br/>„Heute ist der Tag,</p>
+      <p xml:id="sub-77741ed8-a912-4f5c-8033-983779f1a5db" begin="00:08:11:16" end="00:08:14:17" region="bottom-center" ttm:role="dialog">um Punkte für
+        <br/>die Meisterschaft zu sammeln.“</p>
+      <p xml:id="sub-021e7ff8-42ff-4394-b181-a259cab8069b" begin="00:08:15:05" end="00:08:18:14" region="bottom-center" ttm:role="dialog">Es ist leichter,
+        <br/>gegen Marvin anzutreten,</p>
+      <p xml:id="sub-a1a5901d-9663-4b3c-8a2f-c85f359eda2a" begin="00:08:19:09" end="00:08:21:20" region="bottom-center" ttm:role="dialog">wenn man nichts
+        <br/>zu verlieren hat.</p>
+      <p xml:id="sub-8228944a-1177-49a4-94f6-3712605009af" begin="00:08:21:24" end="00:08:26:11" region="bottom-center" ttm:role="dialog">Gib einfach alles und leg los.</p>
+      <p xml:id="sub-d7976400-7f84-4de4-9813-4298c1eedbdb" begin="00:08:27:09" end="00:08:29:08" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Ein guter Start für Baggett.</span>
+      </p>
+      <p xml:id="sub-bdecda35-0280-4bf5-ad03-2787a4eca943" begin="00:08:29:11" end="00:08:31:21" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Musquin versucht, ihn abzudrängen.</span>
+      </p>
+      <p xml:id="sub-4c24abe2-e0cc-49f2-b9ef-b3f8a831e0f9" begin="00:08:31:25" end="00:08:34:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Es ist ein Kopf-an-Kopf-Rennen.</span>
+      </p>
+      <p xml:id="sub-4f8865f4-f5e9-4295-a1ee-456f303a2cd2" begin="00:08:35:02" end="00:08:37:06" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Musquin und Baggett Platz 1 und 2.</span>
+      </p>
+      <p xml:id="sub-efd8e931-3bc3-410f-9e59-7d35847bb2a7" begin="00:08:37:19" end="00:08:38:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Tomac war gut.</span>
+      </p>
+      <p xml:id="sub-6c67c757-b148-49b9-9a9d-e3d6505bb5be" begin="00:08:39:02" end="00:08:40:28" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er erreichte den zweiten Platz.</span>
+      </p>
+      <p xml:id="sub-1581666e-bdde-470f-8e9c-c48c9c7c5bc1" begin="00:08:41:13" end="00:08:43:23" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Eli Tomac kennt diese Strecke gut.</span>
+      </p>
+      <p xml:id="sub-193842a2-c3f9-44ad-8331-47446f4eaf2a" begin="00:08:43:27" end="00:08:47:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er legt sich in die Kurve.</span>
+      </p>
+      <p xml:id="sub-91ce0925-5a8e-4944-bc5e-8f83d5da6ff7" begin="00:08:48:02" end="00:08:49:26" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er hängt an der 25!</span>
+      </p>
+      <p xml:id="sub-752ebf5b-7647-4092-834d-af96dc504d72" begin="00:08:50:04" end="00:08:53:13" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er hat es auf</span>
+        <br/>
+        <span tts:fontStyle="italic">Marvin Musquin abgesehen.</span>
+      </p>
+      <p xml:id="sub-7431b90b-d28c-49a1-bcdb-56598f501568" begin="00:08:53:17" end="00:08:55:21" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Und hier kommt Tomac!</span>
+      </p>
+      <p xml:id="sub-5e2e9103-e468-49d8-8110-66cc5505e1d9" begin="00:08:56:10" end="00:08:59:08" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Und Musquin zog direkt an ihm vorbei,</span>
+      </p>
+      <p xml:id="sub-47ea5c3b-eb4f-4a55-b641-ee242d4b87b3" begin="00:08:59:12" end="00:09:02:10" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">hier kommt Tomac.</span>
+        <br/>
+        <span tts:fontStyle="italic">Aber es muss schnell gehen,</span>
+      </p>
+      <p xml:id="sub-16520a72-dc45-4ad8-a96e-b8199a17b5d4" begin="00:09:02:14" end="00:09:05:14" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">und Marvin Musquin fährt innen.</span>
+      </p>
+      <p xml:id="sub-06040a5c-462e-4b1d-aa17-b94399a688d7" begin="00:09:05:24" end="00:09:08:07" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er zieht weg von der 25.</span>
+      </p>
+      <p xml:id="sub-a16a08d1-87d4-4754-9ddb-1231590f3a86" begin="00:09:08:12" end="00:09:12:00" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er hätte Marvin Musqin</span>
+        <br/>
+        <span tts:fontStyle="italic">rauswerfen können.</span>
+      </p>
+      <p xml:id="sub-e808dee0-6d16-47e0-982a-6db294043bcf" begin="00:09:12:23" end="00:09:14:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Zum zweiten Mal</span>
+      </p>
+      <p xml:id="sub-d36810ef-feba-4771-b8de-04611c61a759" begin="00:09:14:06" end="00:09:17:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">triumphiert Eli Tomac</span>
+        <br/>
+        <span tts:fontStyle="italic">in Southwick, Massachusetts.</span>
+      </p>
+      <p xml:id="sub-eadda474-db2e-441c-aee3-e10464f32884" begin="00:09:18:15" end="00:09:20:28" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Beim Versuch,</span>
+        <br/>
+        <span tts:fontStyle="italic">mit Tomac mitzuhalten,</span>
+      </p>
+      <p xml:id="sub-3a7ea488-0f2d-49f8-b774-780ac02ad510" begin="00:09:21:21" end="00:09:23:17" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">stürzte Marvin erneut,</span>
+      </p>
+      <p xml:id="sub-e88fc78c-9e9d-43de-a8e9-ce1453cb7abf" begin="00:09:24:00" end="00:09:26:02" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">kurz nachdem er die Führung verlor.</span>
+      </p>
+      <p xml:id="sub-9f3461c3-6cce-475c-8629-7bbe7b04c054" begin="00:09:26:16" end="00:09:28:27" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Er hat das Rennen</span>
+        <br/>
+        <span tts:fontStyle="italic">wieder nicht beendet,</span>
+      </p>
+      <p xml:id="sub-06ca382b-1db5-42f4-a34c-1f21603a270e" begin="00:09:29:11" end="00:09:33:12" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">in einer Saison gefüllt mit</span>
+        <br/>
+        <span tts:fontStyle="italic">unvorhersehbaren Hindernissen.</span>
+      </p>
+      <p xml:id="sub-5a81de66-c471-4652-9d69-2f1e204dfc56" begin="00:09:34:03" end="00:09:35:23" region="bottom-center" ttm:role="dialog">Ich bin zu ihm gelaufen</p>
+      <p xml:id="sub-0cb0a2a8-c004-49d9-9fe0-e1fab4360446" begin="00:09:35:27" end="00:09:36:27" region="bottom-center" ttm:role="dialog">und er sagte:</p>
+      <p xml:id="sub-40627df2-a5ee-4d0a-bb10-87ee74fb1514" begin="00:09:37:02" end="00:09:38:15" region="bottom-center" ttm:role="dialog">„Mir geht es gut.“</p>
+      <p xml:id="sub-2ceecc64-4e41-4bf0-a1cb-25018b3f19f5" begin="00:09:39:01" end="00:09:41:26" region="bottom-center" ttm:role="dialog">Er wollte einfach nochmal fahren,</p>
+      <p xml:id="sub-c8e3ddce-04df-4c80-8f1e-7afc7bdb34fe" begin="00:09:42:01" end="00:09:44:10" region="bottom-center" ttm:role="dialog">- aber es ging nicht.
+        <br/>- Ich war sauer.</p>
+      <p xml:id="sub-c5ee81c1-e9df-48a3-804d-dc82aa06dd20" begin="00:09:44:25" end="00:09:47:27" region="bottom-center" ttm:role="dialog">„Warum?“
+        <br/>Es sollte ein guter Tag sein,</p>
+      <p xml:id="sub-13353bce-fc3d-4218-9979-9c8bec69b250" begin="00:09:48:02" end="00:09:50:15" region="bottom-center" ttm:role="dialog">weil ich gut gegen
+        <br/>Eli gefahren bin.</p>
+      <p xml:id="sub-15177499-544b-4df8-80dd-81d2de949b7e" begin="00:09:50:28" end="00:09:53:05" region="bottom-center" ttm:role="dialog">Ich hätte Zweiter werden können.</p>
+      <p xml:id="sub-41ab2325-5c11-4848-b8c1-31aca8ef707a" begin="00:09:54:03" end="00:09:57:07" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Blake hat sich auf</span>
+        <br/>
+        <span tts:fontStyle="italic">Platz 2 vorgekämpft,</span>
+      </p>
+      <p xml:id="sub-037d08f5-f895-4f09-886b-6f282f4305aa" begin="00:09:58:00" end="00:10:01:09" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">eine unerwartete Leistung für ihn.</span>
+      </p>
+      <p xml:id="sub-dabe64b6-8b34-48be-920d-2ef8de8039ca" begin="00:10:01:13" end="00:10:04:14" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">Und er liegt nur 19 Punkte</span>
+        <br/>
+        <span tts:fontStyle="italic">hinter Eli Tomac,</span>
+      </p>
+      <p xml:id="sub-5d0aa185-6f2a-4ea0-a9f8-b65d1c030bcc" begin="00:10:04:28" end="00:10:08:11" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">eine gute Position,</span>
+        <br/>
+        <span tts:fontStyle="italic">mit fünf weiteren Rennen</span>
+      </p>
+      <p xml:id="sub-ea18c93e-e2c4-4acb-8309-15b646926b14" begin="00:10:08:15" end="00:10:10:01" region="bottom-center" ttm:role="dialog">
+        <span tts:fontStyle="italic">in der Saison.</span>
+      </p>
+      <p xml:id="sub-15732320-faa9-4b06-b685-cbc9cb400167" begin="00:10:10:05" end="00:10:11:12" region="bottom-center" ttm:role="dialog">Der Daumen tat weh.</p>
+      <p xml:id="sub-6f7f0cda-a5e4-4923-a80a-915b8c500bf5" begin="00:10:11:16" end="00:10:13:11" region="bottom-center" ttm:role="dialog">Es geht um die Meisterschaft.</p>
+      <p xml:id="sub-45f61877-06d1-4e67-a8cc-fc6f5e1ba3a6" begin="00:10:13:14" end="00:10:14:26" region="bottom-center" ttm:role="dialog">Es sieht nach einem</p>
+      <p xml:id="sub-df6cd599-e9a3-4752-ae63-76945ef8476b" begin="00:10:15:01" end="00:10:16:20" region="bottom-center" ttm:role="dialog">Kopf-an-Kopf-Rennen aus.</p>
+      <p xml:id="sub-337d1c56-d49e-451c-9069-248bd0a74d9a" begin="00:10:17:06" end="00:10:20:06" region="bottom-center" ttm:role="dialog">Ich bin bereit, bis zur
+        <br/>letzten Sekunde zu kämpfen.</p>
+      <p xml:id="sub-272d719f-803b-419d-af6b-d5dc797964ed" begin="00:10:21:06" end="00:10:22:20" region="bottom-center" ttm:role="dialog">Hoffentlich klappt es.</p>
     </div>
   </body>
 </tt>
